@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:8080/api/api',
-  tokenName :  "authToken",
-  origin:'http://localhost:4200' 
+  apiUrl: 'http://ostbapi-vijaysimha-dev.apps.rm3.7wse.p1.openshiftapps.com:8180',
+  tokenName :  "sha256~YBFM_DuM5OXa-d0NeAE-QzPzvPRbaedZZzI6afdi8zM",
+  origin:'http://ostbapi-vijaysimha-dev.apps.rm3.7wse.p1.openshiftapps.com:8180' 
 };
